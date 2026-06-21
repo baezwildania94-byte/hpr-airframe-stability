@@ -1,4 +1,3 @@
-# hpr-airframe-stability
 # High Power Rocketry Airframe Integration: Optimizing Static Stability
 **By Wildania Baez Polanco**
 
@@ -12,14 +11,7 @@ To safely upgrade a custom 70 cm launch vehicle from mid-power to high-power pro
 
 ### 3. Final Simulated Flight Performance
 
-* **H-130W Motor (Unballasted / Unsafe):**
-  * Peak Acceleration: 516 m/s²
-  * Maximum Velocity: 245 m/s
-  * Apogee: 658 m
-  * Flight Safety Status: Severe Danger (Unstable)
-
-* **H-130W Motor (With Ballast / Optimized):**
-  * Peak Acceleration: 432 m/s²
-  * Maximum Velocity: 228 m/s
-  * Apogee: 687 m
-  * Flight Safety Status: Safe and Stable
+| Motor Configuration | Peak Acceleration | Maximum Velocity | Apogee | Flight Safety Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **H-130W (Unballasted)** | 516 m/s² | 245 m/s | 658 m | Severe Danger (Unstable) |
+| **H-130W (With Ballast)** | 432 m/s² | 228 m/s | 687 m | Safe / Stable |
