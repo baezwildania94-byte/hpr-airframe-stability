@@ -8,7 +8,7 @@ Instead of treating stability as a static problem requiring a total vehicle rede
 
 ## The Propulsion Challenge & The "Zero-Redesign" Solution
 
-* **The Problem (Propulsion-Driven Instability):** Upgrading from mid-power to high-power solid rocket motors (specifically moving across G and H-impulse classes) significantly increases rear-end mass. This shifts the vehicle's Center of Gravity (CG) dangerously rearward, crushing the static stability margin down to **0.089 cal**—well below the safe 1.0–2.0 cal threshold.
+* **The Problem (Propulsion-Driven Instability):** Upgrading from mid-power to high-power solid rocket motors (specifically moving across G and H-impulse classes) significantly increases rear-end mass. This shifts the vehicle's Center of Gravity (CG) dangerously rearward, crushing the static stability margin down to **0.089 cal** well below the safe 1.0–2.0 cal threshold.
 * **The Traditional Inefficiency:** Usually, switching to a more powerful motor forces a complete, costly structural redesign of the airframe, altering fin geometry or body tube lengths to compensate for the weight distribution.
 * **The Engineering Solution:** I designed a custom, concentric internal weight compartment integrated into the nose cone using Fusion 360. 
 * **The Design Philosophy (Modular Adaptability):** It is **not just a piece of metal**. It is a dynamic flight-tuning system. The compartment allows the flight crew to field adjust the ballast on demand. Depending on the exact impulse class and mass of the chosen motor, weight can be mechanically added or removed in seconds **completely eliminating the need to redesign the physical rocket.** 
@@ -29,6 +29,6 @@ To validate this modular propulsion integration system, simulations were conduct
 ---
 
 ## 📂 Repository Contents & Engineering Deliverables
-* **'CAD':** Contains the `.step` and `.stl` files of the modular internal weight compartment modeled in Fusion 360.
-* **'Simulations:** Raw `.ork` (OpenRocket) file containing the complete vehicle configuration and environmental flight profiles for both G and H motors.
-* **Report_Airframe_Integration.docx`:** The final engineering brief outlining structural materials selection (plywood internal components, cardboard body tubes) and mass-over-time flight graphs.
+* **CAD:** Contains the `.step` and `.stl` files of the modular internal weight compartment modeled in Fusion 360.
+* **Simulations:** Raw .ork` (OpenRocket) file containing the complete vehicle configuration and environmental flight profiles for both G and H motors.
+* **Report_Airframe_Integration.docx:** The final engineering brief outlining structural materials selection (plywood internal components, cardboard body tubes) and mass-over-time flight graphs.
