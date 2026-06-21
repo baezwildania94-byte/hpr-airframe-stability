@@ -29,6 +29,6 @@ To validate this modular propulsion integration system, simulations were conduct
 ---
 
 ## 📂 Repository Contents & Engineering Deliverables
-* **CAD:** Contains the `.step` and `.stl` files of the modular internal weight compartment modeled in Fusion 360.
+* **CAD:** Contains the `.step`file of the modular internal weight compartment as well as the rest of the components modeled in Fusion 360.
 * **Simulations:** Raw .ork` (OpenRocket) file containing the complete vehicle configuration and environmental flight profiles for both G and H motors.
 * **Report_Airframe_Integration.docx:** The final engineering brief outlining structural materials selection (plywood internal components, cardboard body tubes) and mass-over-time flight graphs.
